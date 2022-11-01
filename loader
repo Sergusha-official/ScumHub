@@ -1,3 +1,3 @@
 plr = game.Players.LocalPlayer
 setclipboard("discord.gg/xCfdSjWFsM")
-plr:kick("join discord server for access and help script old старый")
+plr:kick("join discord server for access and help script old, скрипт устарел в нашем дискорд сервере новый! он скопирован! вставка Ctrl + V")
